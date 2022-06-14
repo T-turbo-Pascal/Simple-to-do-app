@@ -10,4 +10,4 @@ ALLOWED_HOSTS=["bla-bla.ngrok.io", "localhost", "127.0.0.1"]
 ```
 ____
 #### made with ❤️ by 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Turbor+pascal^_~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Turbo+pascal^_~)](https://git.io/typing-svg)

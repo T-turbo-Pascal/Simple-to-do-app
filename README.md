@@ -4,7 +4,7 @@
 pip install django
 pip install django-crispy-forms
 ```
-To run via __ngrok__, remember to specify the following in ___settings.py__
+To run via __ngrok__, remember to specify the following in __settings.py__
 ```python
 ALLOWED_HOSTS=["bla-bla.ngrok.io", "localhost", "127.0.0.1"]
 ```
